@@ -51,5 +51,9 @@ def pythagorean_triplet_seeker(int_max):
     return pythagorean_triples
 
 
-if __name__ == '__main__':
+def main():
     pythagorean_triplet_seeker(500)
+
+
+if __name__ == '__main__':
+    main()
